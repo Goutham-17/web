@@ -100,7 +100,7 @@ img{
     .bg-base1{
         background-color: var(--color-base);
         border-radius: 20px;
-        min-height: 89vh;
+        min-height: 80vh;
     }
     
 }
