@@ -17,7 +17,7 @@ body{
     
     color: var(--color-body);
     font-family: var(--font-fam);
-    background: linear-gradient(rgba(4, 6, 15, 0.895),rgba(7, 7, 7, 0.9)),url(images/fn.webp) no-repeat center/cover;
+    background: linear-gradient(rgba(4, 6, 15, 0.895),rgba(7, 7, 7, 0.9)),url(./images/fn.webp) no-repeat center/cover;
 
 }
 
